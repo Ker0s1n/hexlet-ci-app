@@ -1,5 +1,5 @@
 name: CI_practice
-run-name: ${{ github.actor }} is testing out GitHub CI for this student
+run-name: ${{ github.actor }} is testing out GitHub CI
 on: [push]
 jobs:
     build:
